@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Listing\Listing\bin\Debug\Listing.exe.config
+C:\Users\ASUS\source\repos\Listing\Listing\bin\Debug\Listing.exe
+C:\Users\ASUS\source\repos\Listing\Listing\bin\Debug\Listing.pdb
+C:\Users\ASUS\source\repos\Listing\Listing\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\Listing\Listing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\Listing\Listing\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\Listing\Listing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.Form1.resources
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.exe
+C:\Users\ASUS\source\repos\Listing\Listing\obj\Debug\Listing.pdb
